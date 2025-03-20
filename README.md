@@ -13,7 +13,7 @@ Add the `simple-wcpms.html` into the main app module of your project
 The code in the `<script>` will fetch the wcpms api for the phenology metrics and feed the dynamic graph with the metrics and time series ready for visualization.
 
 The `html-wcpms` component 
-![alt text](https://github.com/brazil-data-cube/html-wcpms/blob/master/exemple/plot.png)
+![alt text](https://github.com/brazil-data-cube/html-wcpms/blob/master/examples/plot.png)
 
 Then use the `collection`, `band`, `start_date`, `end_date`, `freq`, `latitude` and `longitude` variables to query the data to the display component
 ```typescript
